@@ -3,6 +3,11 @@ uuid = "5f9b0a48-72a2-44e0-9813-fb3859179609"
 authors = ["Hans Würfel <git@wuerfel.io> and contributors"]
 version = "0.1.0"
 
+[deps]
+GeometryBasics = "5c1252a2-5f33-56bf-86c9-59e7332b4326"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+
 [compat]
 julia = "1"
 
